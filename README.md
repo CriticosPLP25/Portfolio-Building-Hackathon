@@ -1,5 +1,9 @@
 # Criticos Onyango Mugwero – Portfolio
 
+# 🌐 Live Demo
+Check out the live version of my portfolio here:  
+👉 [Click to View Portfolio](https://portfoliobuildinghackathon.netlify.app/)
+
 Welcome to my personal portfolio website! I'm a passionate software developer with a growing skill set and a love for coding, creativity, and problem-solving. This portfolio showcases my background, projects, skills, and interests.
 
 ## 🌍 Live Preview
